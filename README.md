@@ -1,3 +1,3 @@
 # aiotdlib-example-bot
 
-Just a text bot 🤒
+Just a test bot 🤒
